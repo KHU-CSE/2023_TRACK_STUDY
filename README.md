@@ -36,7 +36,7 @@ https://github.com/orgs/Musicstagram/repositories
 |팀장|팀원|팀원|팀원|팀원|팀원|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |img|img|img|img|img|img|
-|[한우준]|[신주은]|[이의준]|[이다은]|[진형준]|[이소연]|
+|[한우준](https://github.com/MrMirror21)|[신주은](https://github.com/shin0112)|[이의준]|[이다은]|[진형준]|[이소연]|
 
 
 ###  팀
