@@ -77,7 +77,7 @@ https://github.com/Sunha-i/Dancing
 |팀장|팀원|
 |:--:|:--:|
 |img|img|
-|[박선하])(https://github.com/Sunha-i/Dancing)|[우은진]|
+|[박선하](https://github.com/Sunha-i/Dancing)|[우은진]|
 
 ###
 
