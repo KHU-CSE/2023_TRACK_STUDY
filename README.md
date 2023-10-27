@@ -68,7 +68,7 @@ https://github.com/lkh3409/GamjaPJ
 |팀장|팀원|팀원|팀원|
 |:--:|:--:|:--:|:--:|
 |img|img|img|img|
-|[이강훈]|[김택수]|[김예빈]|[제갈민혁]|
+|[이강훈](https://github.com/lkh3409)|[김택수]|[김예빈]|[제갈민혁]|
 
 ### twosome
 > 3D pose estimation을 이용한 댄스 애니메이션 제작
