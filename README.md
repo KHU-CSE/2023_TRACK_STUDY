@@ -35,8 +35,7 @@ https://github.com/orgs/Musicstagram/repositories
 
 |팀장|팀원|팀원|팀원|팀원|팀원|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|<img src="https://github.com/KHU-CSE/2023_TRACK_STUDY/assets/49388937/c7a0ddd1-0aae-40d3-b6d8-a050ea5751b8" width="100" height="10%"/>|img|img|img|img|![image](https://github.com/KHU-CSE/2023_TRACK_STUDY/assets/84007823/5364c013-450e-46b1-aa06-33991ee8d285)
-|
+|<img src="https://github.com/KHU-CSE/2023_TRACK_STUDY/assets/49388937/c7a0ddd1-0aae-40d3-b6d8-a050ea5751b8" width="100" height="10%"/>|img|img|img|img|<img src = "https://github.com/KHU-CSE/2023_TRACK_STUDY/assets/84007823/5364c013-450e-46b1-aa06-33991ee8d285" width="100" height = "10%"|
 |[한우준](https://github.com/MrMirror21)|[신주은](https://github.com/shin0112)|[이의준]|[이다은]|[진형준]|[이소연](https://github.com/soyeon-kk)|
 
 
