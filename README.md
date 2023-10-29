@@ -60,7 +60,7 @@ https://github.com/DoYunseo/2023_Track_Project
 |[도윤서](https://github.com/DoYunseo)|[권주명]|[최진영]|[황효은]|[정재현]|[서양하]|
 
 
-###  Parstagram
+### Gram
 > 인스타 피드 분석을 통한 궁합 테스트
 
 https://github.com/lkh3409/GamjaPJ
