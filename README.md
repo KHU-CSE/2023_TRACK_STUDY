@@ -62,3 +62,5 @@ https://github.com/DoYunseo/2023_Track_Project
 |img|img|img|img|img|img|
 |[도윤서](https://github.com/DoYunseo)|[권주명]님
 
+## 평가단
+박성배 교수님
