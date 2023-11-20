@@ -60,7 +60,7 @@ https://github.com/DoYunseo/2023_Track_Project
 |팀장|팀원|팀원|팀원|팀원|팀원|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |img|img|img|img|img|img|
-|[도윤서](https://github.com/DoYunseo)|[권주명]|
+|[도윤서](https://github.com/DoYunseo)|[권주명]|[최진영]|[황효은]|[정재현]|[서양하]|
 
 ## 평가단
 박성배 교수님
