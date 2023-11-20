@@ -64,6 +64,7 @@ https://github.com/DoYunseo/2023_Track_Project
 
 ### Gram
 > 인스타 피드 분석을 통한 궁합 테스트
+
 https://github.com/lkh3409/GamjaPJ
 
 |팀장|팀원|팀원|팀원|
@@ -73,7 +74,9 @@ https://github.com/lkh3409/GamjaPJ
 
 ### twosome
 > 3D pose estimation을 이용한 댄스 애니메이션 제작
+
 https://github.com/Sunha-i/Dancing
+
 |팀장|팀원|
 |:--:|:--:|
 |img|img|
