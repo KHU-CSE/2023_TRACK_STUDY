@@ -45,7 +45,7 @@ https://github.com/orgs/Musicstagram/repositories
 ###  뭐든지 물어봐!
 >  AI 기반 회의록 요약 서비스
 
-
+https://spotty-rainbow-7e5.notion.site/AI-b88500c317424b51a7ed112936c387e5
 
 |팀장|팀원|팀원|팀원|팀원|팀원|
 |:--:|:--:|:--:|:--:|:--:|:--:|
@@ -60,7 +60,7 @@ https://github.com/DoYunseo/2023_Track_Project
 |팀장|팀원|팀원|팀원|팀원|팀원|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |img|img|img|img|img|img|
-|[도윤서](https://github.com/DoYunseo)|[권주명]님
+|[도윤서](https://github.com/DoYunseo)|[권주명]|
 
 ## 평가단
 박성배 교수님
