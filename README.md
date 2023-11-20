@@ -62,5 +62,24 @@ https://github.com/DoYunseo/2023_Track_Project
 |img|img|img|img|img|img|
 |[도윤서](https://github.com/DoYunseo)|[권주명]|[최진영]|[황효은]|[정재현]|[서양하]|
 
+### Gram
+> 인스타 피드 분석을 통한 궁합 테스트
+https://github.com/lkh3409/GamjaPJ
+
+|팀장|팀원|팀원|팀원|
+|:--:|:--:|:--:|:--:|
+|img|img|img|img|
+|[이강훈](https://github.com/lkh3409)|[김택수]|[김예빈]|[제갈민혁]|
+
+### twosome
+> 3D pose estimation을 이용한 댄스 애니메이션 제작
+https://github.com/Sunha-i/Dancing
+|팀장|팀원|
+|:--:|:--:|
+|img|img|
+|[박선하](https://github.com/Sunha-i)|[우은진]|
+
+###
+
 ## 평가단
 박성배 교수님
